@@ -9,4 +9,6 @@ spec:
   ref:
     branch: main
   url: https://github.com/ravilnagmetov/demo2
+  refSecretRef:
+    name: github-secret
 
